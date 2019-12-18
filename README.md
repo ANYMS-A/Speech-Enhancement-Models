@@ -3,6 +3,10 @@
 # Speech-Enhancement-Models
 Speech enhancement models:MLP, Auto-encoder, GAN
 
+## Dataset
+The dataset is the speech enhancment dataset built by the University of Edinburgh.
+[DataShare](https://datashare.is.ed.ac.uk/handle/10283/2791).
+
 ## Requirements
 * PyTorch
 ```
