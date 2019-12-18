@@ -12,3 +12,5 @@ conda install pytorch torchvision -c pytorch
 ```
 pip install librosa
 ```
+## Notes:
+The audios should be sliced into pieces with equal time length. Then do Short Time Fourier Transform on them, turn them into a 2D matirx. Then we use CNN to extract features from them.
